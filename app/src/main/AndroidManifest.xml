@@ -11,10 +11,6 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
-        <service
-            android:name=".MyIntentService"
-            android:exported="false" />
-
         <activity
             android:name=".MainActivity"
             android:label="@string/title_activity_main2"
